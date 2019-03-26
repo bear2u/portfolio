@@ -1,11 +1,16 @@
 # 포트폴리오
 
 - 이름 : 김태현
+- 나이 : 38
 
 - 경력
 
   - 안드로이드 11년
   - 웹 백엔드 약 5년
+
+- 주 언어 및 보조 언어
+  - 자바, 자바스크립트, HTML, CSS, REACT,Android, Spring, JSP, Golang, IOS, Flutter, NODEJS, PHP
+  - Oracle(11g 자격증 보유), Mysql, MongoDB, MSSQL등
 
 - 대표 경력
 
@@ -22,8 +27,8 @@
   - 리모컨 안드로이드 개발 참여(팀장)
 
   - 애견동물 POS 개발 PM
-
-    
+  
+  - 현) 로하 스타트업 개발 팀장
 
   ## 안드로이드
 
