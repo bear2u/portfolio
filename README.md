@@ -1,7 +1,7 @@
 # 포트폴리오
 
 - 이름 : 김태현
-- 나이 : 38
+- 나이 : 39
 
 - 경력
 
@@ -11,6 +11,13 @@
 - 주 언어 및 보조 언어
   - 자바, 자바스크립트, HTML, CSS, REACT,Android, Spring, JSP, Golang, IOS, Flutter, NODEJS, PHP
   - Oracle(11g 자격증 보유), Mysql, MongoDB, MSSQL등
+  
+- 자격증 보유
+  - 정보 처리 산업기사
+  - 전자상거래 운영사
+  - 컴활 1급
+  - 무역영어 2급
+  
 
 - 대표 경력
 
