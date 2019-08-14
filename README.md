@@ -3,6 +3,8 @@
 - 이름 : 김태현
 - 나이 : 39
 
+* 개발 블로그 : https://javaexpert.tistory.com/
+
 - 경력
 
   - 안드로이드 11년
