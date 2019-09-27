@@ -11,7 +11,7 @@
   - 웹 백엔드 약 5년
 
 - 주 언어 및 보조 언어
-  - 자바, 자바스크립트, HTML, CSS, REACT,Android, Spring, JSP, Golang, IOS, Flutter, NODEJS, PHP
+  - Flutter, Dart, 자바, 자바스크립트, HTML, CSS, REACT, Android, Spring, JSP, Golang, IOS, Flutter, NODEJS, PHP
   - Oracle(11g 자격증 보유), Mysql, MongoDB, MSSQL등
   
 - 자격증 보유
@@ -40,9 +40,15 @@
 
   - 애견동물 POS 개발 PM
   
-  - 현) 로하 스타트업 개발 팀장
+  - 전) 로하 스타트업 개발 팀장
 
   - 현) 구글 GDG 개발자 그룹 부산 운영진
+  
+  - 현) 경남정보대학교 겸임교수
+  
+  - 현) 수앤지 소프트 개발 이사
+  
+  - 현) 부산 AI,빅데이터 협의회 사무처장
 
   ## 안드로이드
 
@@ -114,15 +120,24 @@
   - 보호 및 장애유형등을 미리 관제 시스템에 탑재해서 위험도를 알리는 게 목적
   - `Spring boot2 + mysql + JWT` 를 이용해서 백엔드 개발(PM)
 
-  
-
   ### 보안 솔루션 글라디우스 대쉬보드 개발
 
   - 컴퓨터 유출 보안 관리 솔루션에 대한 웹 대쉬보드 시스템 개발
   - `JSP + MySQL`
 
+  ### 가사도우미 중개 플랫폼 개발
   
-
+  - Flutter로 프론트 개발
+  - Bloc + RxDart
+  - Backend
+    - Docker
+    - NodeJs
+    - MongoDB
+  - 관리자 페이지
+    - React
+    
+  ![일과사람들](https://lh3.googleusercontent.com/w76Afeinpg0PwFH4IVwUNYo_JjweZjDAq-Gjyd_B4DCvGqVbeoe14mKNmILrOd09GQ=w1440-h620-rw)  
+    
   
 
   
