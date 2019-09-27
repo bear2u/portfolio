@@ -49,6 +49,21 @@
   - 현) 수앤지 소프트 개발 이사
   
   - 현) 부산 AI,빅데이터 협의회 사무처장
+  
+  ## Flutter
+  
+  ### 가사도우미 중개 플랫폼 개발
+  
+  - Flutter로 프론트 개발
+  - Bloc + RxDart
+  - Backend
+    - Docker
+    - NodeJs
+    - MongoDB
+  - 관리자 페이지
+    - React
+    
+  ![일과사람들](https://lh3.googleusercontent.com/w76Afeinpg0PwFH4IVwUNYo_JjweZjDAq-Gjyd_B4DCvGqVbeoe14mKNmILrOd09GQ=w1440-h620-rw)  
 
   ## 안드로이드
 
@@ -125,18 +140,7 @@
   - 컴퓨터 유출 보안 관리 솔루션에 대한 웹 대쉬보드 시스템 개발
   - `JSP + MySQL`
 
-  ### 가사도우미 중개 플랫폼 개발
-  
-  - Flutter로 프론트 개발
-  - Bloc + RxDart
-  - Backend
-    - Docker
-    - NodeJs
-    - MongoDB
-  - 관리자 페이지
-    - React
-    
-  ![일과사람들](https://lh3.googleusercontent.com/w76Afeinpg0PwFH4IVwUNYo_JjweZjDAq-Gjyd_B4DCvGqVbeoe14mKNmILrOd09GQ=w1440-h620-rw)  
+
     
   
 
